@@ -1,0 +1,9 @@
+Building ubuntu
+
+See doc/readme-qt.rst for instructions on building ubuntu QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ubuntu.
+
+See doc/build-*.txt for instructions on building ubuntud,
+the intended-for-services, no-graphical-interface, reference
+implementation of ubuntu.
